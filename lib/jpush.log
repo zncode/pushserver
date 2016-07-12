@@ -1,0 +1,2 @@
+Send POST https://api.jpush.cn/v3/push, body:{"platform":["android"],"audience":{"registration_id":["1507bfd3f7c6762611d"]},"notification":{"alert":"Hi, JPush"},"options":{"sendno":544691479,"apns_production":false}}, times:1
+Send POST https://api.jpush.cn/v3/push, body:{"platform":["android"],"audience":{"registration_id":["1507bfd3f7c6762611d"]},"notification":{"alert":"Hi, JPush tets"},"options":{"sendno":1645539575,"apns_production":false}}, times:1
